@@ -1,6 +1,6 @@
 # Hackaplay
 Hackaplay ainda é uma ideia, cujo objetivo principalm é auxiliar na evolução do raciocínio lógico de crianças das favelas, através da lógica de programação e ludicidade.
-![](Bot-Apura-Eleicao-2022-img.jpg)
+![](kids-img.png)
 
 ## Contexto
 Em 2012, iniciei na área de tecnologia em São Paulo, enquanto vivia a atmosfera do local se ganha dinheiro com tecnologia passei a buscar resposta para a segunte pergunte: "Você existem poucas pessoas negras aqui?".
